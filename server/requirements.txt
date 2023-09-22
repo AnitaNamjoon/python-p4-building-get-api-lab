@@ -1,0 +1,7 @@
+alembic==1.10.1
+Faker==17.6.0
+Flask==2.2.3
+Flask_Migrate==4.0.4
+flask_sqlalchemy==3.1.1
+SQLAlchemy==2.0.5.post1
+SQLAlchemy_serializer==1.4.1
